@@ -1,0 +1,12 @@
+
+build:
+   version: "3.0"
+
+loans:
+  message: "Welcome to Loans Service"
+  contactDetails:
+    name: "Amaal Grega - Developer"
+    email: "amaal@eazybank.com"
+  onCallSupport:
+    name: "Amaal Grega - Developer"
+    email: "amaal@eazybank.com"

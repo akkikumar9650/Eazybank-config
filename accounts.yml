@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Accounts Service of EazyBank"
+  contactDetails:
+    name: "Akshay Kumar"
+    email: "akumar@abc"
+  onCallSupport:
+    name: "Akshay Kumar"
+    email: "akumar@abc"

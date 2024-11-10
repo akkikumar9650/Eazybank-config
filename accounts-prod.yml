@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Accounts Service of EazyBank prod APIs"
+  contactDetails:
+    name: "anmol - prod Lead"
+    email: "akumar@abc.com"
+  onCallSupport:
+    name: "Anmol - prod Lead"
+    email: "anmolprod@abc"
