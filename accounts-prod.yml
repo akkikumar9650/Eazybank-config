@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Accounts Service of EazyBank prod APIs"
   contactDetails:
     name: "anmol - prod Lead"
-    email: "{cipher}b7be6b5dc12ee25d06015a4a7e4b73a91524a471aa7dde01aa265cd5158a1fec"
+    email: "{cipher}a86fda10636ce35e530b2e62164a5b20deffb4c3253c8773686defdf0efb68c9"
   onCallSupport:
     name: "Anmol - prod Lead"
     email: "anmolprod@abc"
