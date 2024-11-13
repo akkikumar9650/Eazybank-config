@@ -3,7 +3,7 @@ server:
 
 eureka:
  instance:
-  hostname: lovalhost
+   hostname: lovalhost
  client:
     fetchRegistry: false
     registerWithEureka: false
